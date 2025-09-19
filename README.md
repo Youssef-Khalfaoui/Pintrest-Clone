@@ -108,14 +108,18 @@ Pintrest-Clone/
 
 ## 📸 Screenshots
 
-### Desktop View
-![Desktop Home Page](img.png)
-
-### Mobile View  
-![Mobile View](https://via.placeholder.com/400x800/f0f0f0/333?text=Mobile+View)
-
-### Pin Details
-![Pin Details](https://via.placeholder.com/800x600/f0f0f0/333?text=Pin+Details+Page)
+![HOME PAGE](img.png)
+---
+![EXPLORE PAGE](img2.png)
+---
+![BROWSE CATEGORY](img3.png)
+---
+![CREATE PIN](img4.png)
+---
+![PROFILE PAGE](img5.png)
+---
+![DETAIL PAGE](img6.png)
+---
 
 ---
 
