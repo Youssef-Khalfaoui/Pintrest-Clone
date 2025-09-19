@@ -109,7 +109,7 @@ Pintrest-Clone/
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Home Page](https://via.placeholder.com/800x600/f0f0f0/333?text=Desktop+Home+View)
+![Desktop Home Page](img.png)
 
 ### Mobile View  
 ![Mobile View](https://via.placeholder.com/400x800/f0f0f0/333?text=Mobile+View)
